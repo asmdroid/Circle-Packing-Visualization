@@ -11,7 +11,7 @@ Both states and variables are shown with a color code. The color code of the CPV
 
 ##How to use it?
 
-Save all the files of the repository in a root folder of a Web server. Change the owner and the group owner of the folder and all its files with the command `chown -r www-data:www-data foldername` Test if everything is right visiting the URL `http://baseServerURL/foldername/`
+Save all the files of the repository in a root folder of a Web server. Change the owner and the group owner of the folder and all its files with the command `chown -R www-data:www-data foldername` Test if everything is right visiting the URL `http://baseServerURL/foldername/`
 
 Once you have properly configured the server you should follow the next steps:
 
