@@ -1,0 +1,194 @@
+{
+ "name": "MEDASTATES",
+ "children": [
+  {
+   "name": "15",
+   "color": "rgba(255,13,0,1)",
+   "children": [
+      {"name": "fw_pssh", "size": 1, "color": "rgba(255,13,0,1)"}
+     ]
+  },
+  {
+   "name": "7",
+   "color": "rgba(255,167,0,1)",
+   "children": [
+      {"name": "fw_asa4", "size": 1, "color": "rgba(255,167,0,1)"},
+      {"name": "fw_asa41", "size": 1, "color": "rgba(255,255,100,1)"}
+     ]
+  },
+  {
+   "name": "6",
+   "color": "rgba(255,116,0,1)",
+   "children": [
+      {"name": "fw_opdeny", "size": 1, "color": "rgba(255,116,0,1)"},
+      {"name": "fw_asa610", "size": 1, "color": "rgba(255,255,177,1)"}
+     ]
+  },
+  {
+   "name": "2",
+   "color": "rgba(255,13,0,1)",
+   "children": [
+      {"name": "fw_ipfwr", "size": 1, "color": "rgba(255,255,23,1)"},
+      {"name": "fw_phttp", "size": 1, "transition": "rgba(129,124,56,1)", "color": "rgba(255,64,0,1)"},
+      {"name": "fw_outbound", "size": 1, "transition": "rgba(209,96,15,1)", "color": "rgba(255,116,0,1)"},
+      {"name": "fw_asa633", "size": 1, "transition": "rgba(155,105,110,1)", "color": "rgba(255,255,255,1)"},
+      {"name": "fw_conbuilt", "size": 1, "transition": "rgba(134,101,172,1)", "color": "rgba(255,255,100,1)"},
+      {"name": "fw_opbuilt", "size": 1, "transition": "rgba(195,62,150,1)", "color": "rgba(255,255,100,1)"},
+      {"name": "fw_tcp", "size": 1, "transition": "rgba(201,69,113,1)", "color": "rgba(255,116,0,1)"},
+      {"name": "fw_asa6", "size": 1, "transition": "rgba(131,137,54,1)", "color": "rgba(255,219,0,1)"},
+      {"name": "fw_sysinfo", "size": 1, "transition": "rgba(141,167,21,1)", "color": "rgba(255,255,255,1)"},
+      {"name": "fw_condown", "size": 1, "transition": "rgba(210,170,6,1)", "color": "rgba(255,13,0,1)"},
+      {"name": "fw_opteardown", "size": 1, "transition": "rgba(205,150,12,1)", "color": "rgba(255,13,0,1)"},
+      {"name": "fw_ipws", "size": 1, "transition": "rgba(170,122,26,1)", "color": "rgba(255,255,177,1)"}
+     ]
+  },
+  {
+   "name": "1",
+   "color": "rgba(255,13,0,1)",
+   "children": [
+      {"name": "fw_phttp", "size": 1, "transition": "rgba(129,124,56,1)", "color": "rgba(255,64,0,1)"},
+      {"name": "fw_outbound", "size": 1, "transition": "rgba(209,96,15,1)", "color": "rgba(255,116,0,1)"},
+      {"name": "fw_asa633", "size": 1, "transition": "rgba(155,105,110,1)", "color": "rgba(255,255,255,1)"},
+      {"name": "fw_conbuilt", "size": 1, "transition": "rgba(134,101,172,1)", "color": "rgba(255,255,100,1)"},
+      {"name": "fw_opbuilt", "size": 1, "transition": "rgba(195,62,150,1)", "color": "rgba(255,255,100,1)"},
+      {"name": "fw_tcp", "size": 1, "transition": "rgba(201,69,113,1)", "color": "rgba(255,116,0,1)"},
+      {"name": "fw_asa6", "size": 1, "transition": "rgba(131,137,54,1)", "color": "rgba(255,219,0,1)"},
+      {"name": "fw_sysinfo", "size": 1, "transition": "rgba(141,167,21,1)", "color": "rgba(255,255,255,1)"},
+      {"name": "fw_condown", "size": 1, "transition": "rgba(210,170,6,1)", "color": "rgba(255,13,0,1)"},
+      {"name": "fw_opteardown", "size": 1, "transition": "rgba(205,150,12,1)", "color": "rgba(255,13,0,1)"},
+      {"name": "fw_ipws", "size": 1, "transition": "rgba(170,122,26,1)", "color": "rgba(255,255,177,1)"},
+      {"name": "fw_pnstd", "size": 1, "transition": "rgba(136,110,62,1)", "color": "rgba(255,116,0,1)"}
+     ]
+  },
+  {
+   "name": "3",
+   "color": "rgba(255,13,0,1)",
+   "children": [
+      {"name": "fw_phttp", "size": 1, "transition": "rgba(129,124,56,1)", "color": "rgba(255,64,0,1)"},
+      {"name": "fw_outbound", "size": 1, "transition": "rgba(209,96,15,1)", "color": "rgba(255,116,0,1)"},
+      {"name": "fw_asa633", "size": 1, "transition": "rgba(155,105,110,1)", "color": "rgba(255,255,255,1)"},
+      {"name": "fw_conbuilt", "size": 1, "transition": "rgba(134,101,172,1)", "color": "rgba(255,255,100,1)"},
+      {"name": "fw_opbuilt", "size": 1, "transition": "rgba(195,62,150,1)", "color": "rgba(255,255,100,1)"},
+      {"name": "fw_tcp", "size": 1, "transition": "rgba(201,69,113,1)", "color": "rgba(255,116,0,1)"},
+      {"name": "fw_asa6", "size": 1, "transition": "rgba(131,137,54,1)", "color": "rgba(255,219,0,1)"},
+      {"name": "fw_sysinfo", "size": 1, "transition": "rgba(141,167,21,1)", "color": "rgba(255,255,255,1)"},
+      {"name": "fw_condown", "size": 1, "transition": "rgba(210,170,6,1)", "color": "rgba(255,13,0,1)"},
+      {"name": "fw_opteardown", "size": 1, "transition": "rgba(205,150,12,1)", "color": "rgba(255,13,0,1)"},
+      {"name": "fw_ipws", "size": 1, "transition": "rgba(170,122,26,1)", "color": "rgba(255,255,177,1)"},
+      {"name": "fw_ipout", "size": 1, "color": "rgba(255,255,100,1)"}
+     ]
+  },
+  {
+   "name": "4",
+   "color": "rgba(255,116,0,1)",
+   "children": [
+      {"name": "fw_pnstd", "size": 1, "transition": "rgba(136,110,62,1)", "color": "rgba(255,116,0,1)"},
+      {"name": "fw_ipweb", "size": 1, "color": "rgba(255,255,255,1)"}
+     ]
+  },
+  {
+   "name": "11",
+   "color": "rgba(255,116,0,1)",
+   "children": [
+      {"name": "fw_opempty", "size": 1, "color": "rgba(255,255,23,1)"},
+      {"name": "fw_empty", "size": 1, "color": "rgba(255,255,23,1)"},
+      {"name": "fw_asa611", "size": 1, "color": "rgba(255,167,0,1)"},
+      {"name": "ids_ipweb", "size": 1, "color": "rgba(255,255,23,1)"},
+      {"name": "ids_lirc", "size": 1, "color": "rgba(255,116,0,1)"},
+      {"name": "ids_misc", "size": 1, "color": "rgba(255,116,0,1)"}
+     ]
+  },
+  {
+   "name": "10",
+   "color": "rgba(255,167,0,1)",
+   "children": [
+      {"name": "fw_asa21", "size": 1, "color": "rgba(255,255,255,1)"},
+      {"name": "fw_syscritical", "size": 1, "color": "rgba(255,255,255,1)"},
+      {"name": "fw_inbound", "size": 1, "color": "rgba(255,167,0,1)"},
+      {"name": "fw_ipfwhq", "size": 1, "color": "rgba(255,219,0,1)"}
+     ]
+  },
+  {
+   "name": "5",
+   "color": "rgba(255,13,0,1)",
+   "children": [
+      {"name": "ids_pnstd", "size": 1, "color": "rgba(255,167,0,1)"},
+      {"name": "ids_ipws", "size": 1, "color": "rgba(255,13,0,1)"},
+      {"name": "ids_prio3", "size": 1, "color": "rgba(255,167,0,1)"},
+      {"name": "ids_lnetbios", "size": 1, "color": "rgba(255,255,177,1)"},
+      {"name": "ids_ipdc", "size": 1, "color": "rgba(255,64,0,1)"},
+      {"name": "ids_psmb", "size": 1, "color": "rgba(255,255,255,1)"}
+     ]
+  },
+  {
+   "name": "9",
+   "color": "rgba(255,116,0,1)",
+   "children": [
+      {"name": "ids_pnetbios3", "size": 1, "color": "rgba(255,116,0,1)"}
+     ]
+  },
+  {
+   "name": "16",
+   "color": "rgba(255,219,0,1)",
+   "children": [
+      {"name": "ids_badtraffic", "size": 1, "color": "rgba(255,219,0,1)"},
+      {"name": "ids_lsql", "size": 1, "color": "rgba(255,255,255,1)"}
+     ]
+  },
+  {
+   "name": "12",
+   "color": "rgba(255,13,0,1)",
+   "children": [
+      {"name": "ids_ipfwhq", "size": 1, "color": "rgba(255,255,177,1)"},
+      {"name": "ids_prio2", "size": 1, "color": "rgba(255,255,255,1)"},
+      {"name": "ids_leak", "size": 1, "color": "rgba(255,255,100,1)"},
+      {"name": "ids_lvnc", "size": 1, "color": "rgba(255,13,0,1)"}
+     ]
+  },
+  {
+   "name": "19",
+   "color": "rgba(255,255,100,1)",
+   "children": [
+      {"name": "ids_psnmp", "size": 1, "color": "rgba(255,255,100,1)"}
+     ]
+  },
+  {
+   "name": "17",
+   "color": "rgba(255,64,0,1)",
+   "children": [
+      {"name": "fw_asa37", "size": 1, "color": "rgba(255,64,0,1)"},
+      {"name": "fw_opdenyacl", "size": 1, "color": "rgba(255,255,177,1)"}
+     ]
+  },
+  {
+   "name": "18",
+   "color": "rgba(255,255,255,1)",
+   "children": [
+      {"name": "fw_ptelnet", "size": 1, "color": "rgba(255,255,255,1)"}
+     ]
+  },
+  {
+   "name": "13",
+   "color": "rgba(255,255,177,1)",
+   "children": [
+      {"name": "fw_asa636", "size": 1, "color": "rgba(255,255,177,1)"}
+     ]
+  },
+  {
+   "name": "8",
+   "color": "rgba(255,64,0,1)",
+   "children": [
+      {"name": "fw_ipdc", "size": 1, "color": "rgba(255,255,177,1)"},
+      {"name": "fw_ipdns", "size": 1, "color": "rgba(255,219,0,1)"},
+      {"name": "fw_udp", "size": 1, "color": "rgba(255,64,0,1)"}
+     ]
+  },
+  {
+   "name": "14",
+   "color": "rgba(255,255,23,1)",
+   "children": [
+      {"name": "fw_asa635", "size": 1, "color": "rgba(255,255,23,1)"}
+     ]
+  }
+ ]
+}
